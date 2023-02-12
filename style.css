@@ -69,3 +69,33 @@ p{
     margin-top:-30px;
     margin-bottom:20px;
 }
+
+.top{
+    text-align:center;
+    font-size:24px;
+    font-weight:800;
+    margin:30px;
+}
+
+.bottom{
+    display:flex;
+    flex-direction:row;
+    gap:60px;
+    justify-content:center;
+    margin:60px;
+}
+
+.img-text1{
+    width:170px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    flex-wrap:flex;
+    gap:40px;
+}
+
+img{
+    height: 170px;
+    width:170px;
+    border-radius:15px;
+}
