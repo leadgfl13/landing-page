@@ -99,3 +99,18 @@ img{
     width:170px;
     border-radius:15px;
 }
+
+.paragraph{
+    margin:250px;
+    text-align:left;
+    font-size:32px;
+    font-weight:400;
+    font-style:italic;
+}
+
+.foot{
+    margin-top:-250px;
+    text-align:right;
+    margin-right:300px;
+    font-size:20px;
+}
