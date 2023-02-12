@@ -102,6 +102,7 @@ img{
 
 .paragraph{
     margin:250px;
+    margin-top:100px;
     text-align:left;
     font-size:32px;
     font-weight:400;
@@ -109,7 +110,7 @@ img{
 }
 
 .foot{
-    margin-top:-250px;
+    margin-top:-230px;
     text-align:right;
     margin-right:300px;
     font-size:20px;
@@ -119,7 +120,7 @@ img{
     display:flex;
     background-color:rgb(38, 147, 211);
     border-radius:15px;
-    margin-top:250px;
+    margin-top:200px;
     align-items:center;
     margin-left:100px;
     margin-right:100px;
